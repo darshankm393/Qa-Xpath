@@ -23,7 +23,7 @@ public class LoginLogoutDemo {
 		}
 	}
 	@Test(priority=2)
-	public void navigate()
+	public void   navigate()
 	{
 		try
 		{
