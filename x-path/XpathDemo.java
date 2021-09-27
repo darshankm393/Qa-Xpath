@@ -12,7 +12,7 @@ public class XpathDemo {
 	public static void main(String[] args) {
 		launchBrowser();
 		navigate();
-	//	absoluteXPath();
+	
 	//	relativeXPathUsingTagNameAlone();
 	//	relativeXPathUsingTagNameAndIndex();
 	//	relativeXPathUsingTagNameWithAttributeNameValue();
