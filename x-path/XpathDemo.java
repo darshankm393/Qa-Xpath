@@ -12,7 +12,21 @@ public class XpathDemo {
 	public static void main(String[] args) {
 		launchBrowser();
 		navigate();
-	
+	//	absoluteXPath();
+	//	relativeXPathUsingTagNameAlone();
+	//	relativeXPathUsingTagNameAndIndex();
+	//	relativeXPathUsingTagNameWithAttributeNameValue();
+	//	relativeXPathUsingTagNameWithMultipleAttributeNameValues();
+	//	relativeXPathUsingTagNameWithMultipleAttributeNameValuesUsingAndOperator();
+	//	relativeXPathUsingTagNameWithMultipleAttributeNameValuesUsingOrOperator();
+	//	relativeXPathUsingAttributeNameValueCombination();
+	//	relativeXPathUsingAttributeValueAlone();
+	//	relativeXPathUsingTagNameAndAttributeNameAlone();
+	//	relativeXPathUsingTagNameAndAttributeNameAlone2();
+	//	relativeXPathUsingTagNameAndAttributeNameAlone3();
+	//	relativeXPathUsingTagNameAndAttributeNameAlone4();
+	//	relativeXPathUsingPartialAttributeValue();
+	//	relativeXPathUsingTextContent();
 		relativeXPathUsingPartialTextContent();
 	}
 	static void launchBrowser()
